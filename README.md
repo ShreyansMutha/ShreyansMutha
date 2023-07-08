@@ -1,11 +1,6 @@
-<h1 align="center">Hi 👋, I'm Shreyans Mutha</h1>
+<h1 align="center">Shreyans Mutha</h1>
+<img  src="borderseperator.gif">
 <h3 align="center">A passionate frontend developer from India</h3>
-<img  src="data/borderseperator.gif">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shteyansmutha&label=Profile%20views&color=0e75b6&style=flat" alt="shteyansmutha" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shreyansmutha" alt="shreyansmutha" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
@@ -13,8 +8,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://medium.com/@shreyansmutha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@shreyansmutha" height="30" width="40" /></a>
-<a href="/https://shreyansmutha.github.io/shree-s-portfolio/index/index.html" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://shreyansmutha.github.io/shree-s-portfolio/index/index.html" height="30" width="40" /></a>
+<a href="https://shreyansmutha.github.io/shree-s-portfolio/index/index.html" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://shreyansmutha.github.io/shree-s-portfolio/index/index.html" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
