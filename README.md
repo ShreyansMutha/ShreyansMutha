@@ -7,7 +7,7 @@
 <table align="center">
   <tr>
     <td>You are visitor</td>
-    <td><img src="https://profile-counter.glitch.me/jain-rithik/count.svg" alt="" /></td>
+    <td><img src="https://profile-counter.glitch.me/shreyans-mutha/count.svg" alt="" /></td>
   </tr>
 </table>
 
