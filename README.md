@@ -4,10 +4,13 @@
 </h1>
 <!-- <img  src="borderseperator.gif"> -->
 <h3 align="center">A passionate frontend developer from India</h3>
+<table align="center">
+  <tr>
+    <td>You are visitor</td>
+    <td><img src="https://profile-counter.glitch.me/jain-rithik/count.svg" alt="" /></td>
+  </tr>
+</table>
 
-
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
